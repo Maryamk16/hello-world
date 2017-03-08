@@ -12,7 +12,7 @@ public class testing
 	{
 		// TODO Auto-generated method stub
 		
-		//System.setProperty("webdriver.gecko.driver", "C:\\Users\\Maryam Khan\\workspace\\Selenium Practice\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "C:\\Users\\Maryam Khan\\workspace\\Selenium Practice\\geckodriver.exe");
 		
 		WebDriver driver=new FirefoxDriver();
 		
